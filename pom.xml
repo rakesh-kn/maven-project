@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Maven Project</name>
-  <description>Maven is ready</description>
+  <description>Maven is READY</description>
   <url>http://www.example.com</url>
 
   <properties>
